@@ -1,5 +1,5 @@
 import usermodel from "../models/usermodel.js";
-import orderModel from "../models/orderModel.js";
+import orderModel from "../models/ordermodel.js";
 import { comparepassword, hashpassword } from "../helpers/authhelper.js";
 import JWT from "jsonwebtoken";
 
