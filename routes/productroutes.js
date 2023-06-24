@@ -1,5 +1,5 @@
 import express from "express";
-import { isadmin, requiresignin } from "../middlewares/authmiddleware.js";
+import { isadmin, requiresignin } from "../middlewares/authMiddleware.js";
 import {
 	brainTreePaymentController,
 	braintreeTokenController,
