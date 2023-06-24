@@ -1,6 +1,6 @@
 import productmodel from "../models/productmodel.js"
 import categorymodel from "../models/categorymodel.js";
-import orderModel from "../models/orderModel.js";
+import orderModel from "../models/ordermodel.js";
 import fs from "fs";
 import slugify from "slugify";
 import dotenv from "dotenv";
